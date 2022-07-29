@@ -3,6 +3,8 @@
 
 #### Для вывода товаров используется открытая база данных Fake Store API: https://fakestoreapi.com/
 
+<img width="1424" alt="Снимок экрана 2022-07-29 в 19 56 44" src="https://user-images.githubusercontent.com/49311021/181808064-1298dc47-2015-4591-b1a9-dbf3c433491d.png">
+
 
 <h3>Технологии проекта</h3>
 <p>
